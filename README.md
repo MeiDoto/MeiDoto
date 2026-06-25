@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Hey%2C+I%27m+Karthick&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=MeiDoto+%40+GitHub&descAlignY=65&descSize=18&descColor=888888" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+undergrad+%F0%9F%A7%A0;Python+scripter+by+night+%F0%9F%8C%99;Discord+bot+developer+%F0%9F%A4%96;sudo+understand+universe+%E2%86%92+Permission+denied;GTA+V+helicopter+crash+test+pilot+%F0%9F%9A%81;Clash+of+Clans+Fortune+500+CEO+%F0%9F%8F%86)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Hey%2C+I%27m+MeiDoto&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=MeiDoto+%40+GitHub&descAlignY=65&descSize=18&descColor=888888" width="100%"/>
 
 <br/>
 
@@ -14,79 +12,25 @@
 
 </div>
 
----
-
-### 🧠 About Me
-
-<table>
-<tr>
-<td>
-
-```bash
-╭─ karthick@synax ~ ──────────────────────────────────╮
-│                                                      │
-│  NAME    Karthick                                    │
-│  ROLE    AI & Data Science undergrad                 │
-│  FUEL    sambar ☕  dark mode 🌑  caffeine ⚡        │
-│  HOURS   00:00–05:00 productive / rest: pretending   │
-│                                                      │
-│  By day  → pretending to understand the universe     │
-│  By night → Python scripts to avoid actual work      │
-│                                                      │
-│  🚁  GTA V helicopter pilot  (100% crash rate)       │
-│  🏰  Clash of Clans Fortune 500 CEO  (self-titled)   │
-│  🌑  Dark-theming things that don't need it          │
-│  📦  Code: 10% logic, 90% Stack Overflow             │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
-</td>
-<td align="center" width="280">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
-
----
+--- 
 
 ### ⚙️ Tech Stack
+
+**System**
+
+[![Skills](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 
 <div align="center">
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=python,javascript,c,bash,markdown&theme=dark)](https://skillicons.dev)
-
-**AI · Data Science · ML**
-
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark)](https://skillicons.dev)
-
-**Tools · Infra · Cloud**
-
-[![Skills](https://skillicons.dev/icons?i=discord,fastapi,docker,git,github,linux,vscode,postgres&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,javascript,c,bash,markdown,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+**Apps**
 
-### 🔥 Projects
-
-<div align="center">
-
-<a href="https://github.com/MeiDoto/FileGhost">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeiDoto&repo=FileGhost&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=8"/>
-</a>
-&nbsp;
-<a href="https://github.com/MeiDoto/GenGhostV1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeiDoto&repo=GenGhostV1&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=8"/>
-</a>
-
-<a href="https://github.com/MeiDoto/GNDocs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MeiDoto&repo=GNDocs&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=333333&border_radius=8"/>
-</a>
+[![Skills](https://skillicons.dev/icons?i=discord,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
