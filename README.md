@@ -52,35 +52,6 @@
 
 ---
 
-### 🔭 Currently
-
-```yaml
-building   : FileGhost v2  |  Gen Ghost V1  |  GN Docs
-learning   : LangChain  |  RAG pipelines  |  Vector DBs
-exploring  : AI Agents  |  FastAPI  |  anything at 2AM
-breaking   : everything I touch, on purpose or not
-avoiding   : reading documentation (that's what RAG is for)
-listening  : lo-fi beats while pretending to be productive
-```
-
----
-
-### 💡 Fun Facts
-
-```python
-facts = {
-    "favourite_error"   : "It works on my machine 🤷",
-    "debugging_method"  : "Print statements. Always print statements.",
-    "commits_per_mood"  : {"motivated": 12, "tired": 1, "3am": "undefined"},
-    "lines_of_code"     : "enough to regret, not enough to quit",
-    "relationship"      : "It's complicated (with Python async)",
-    "sleep_schedule"    : None,   # not implemented
-    "dark_mode"         : True,   # non-negotiable
-}
-```
-
----
-
 ### ⚙️ Tech Stack
 
 <div align="center">
@@ -155,41 +126,11 @@ facts = {
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MeiDoto&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=6" width="100%"/>
-
-</div>
-
----
-
 ### 📈 Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeiDoto&theme=react-dark&bg_color=0d0d0d&color=ffffff&line=ffffff&point=aaaaaa&area=true&area_color=222222&hide_border=false&border_color=333333&radius=8" width="100%"/>
-
-</div>
-
----
-
-### 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-
-</div>
-
----
-
-### 😂 Dev Joke of the Day
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d0d0d&textColor=%23ffffff&aColor=%23ffffff&borderColor=%23333333&qColor=%23ffffff" width="100%"/>
 
 </div>
 
@@ -219,19 +160,3 @@ facts = {
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
 
 </div>
-
----
-
-<div align="center">
-
-*"Code is never finished. It only becomes slightly less terrible over time."*
-
-*"Every commit I make is essentially a small, desperate apology to my future self."*
-
-<br/>
-
-**Thanks for visiting! If you like what you see, drop a ⭐ somewhere 😄**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
